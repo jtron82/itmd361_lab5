@@ -29,6 +29,10 @@ th {
   color: white;
 }
 
+th:hover {
+  color: green;
+}
+
 tr {
   height: 30px;
 }
