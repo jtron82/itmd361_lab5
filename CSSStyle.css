@@ -48,6 +48,18 @@ td {
   font-size: smaller;
 }
 
-#list:hover {
+#e:hover {
+  transform: scale(1.2);
+}
+
+#m:hover {
+  transform: scale(1.2);
+}
+
+#u:hover {
+  transform: scale(1.2);
+}
+
+#v:hover {
   transform: scale(1.2);
 }
