@@ -4,10 +4,18 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-#title h1 {
+#title {
   text-align: center;
   font-style: italic;
   font-weight: bold;
   font-size: 30px;
 }
 
+#png {
+	left: 40px;
+}
+
+.exp {
+  vertical-align: 3px;
+  font-size: smaller;
+}
