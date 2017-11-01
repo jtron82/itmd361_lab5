@@ -12,6 +12,7 @@ body {
   height: 50px;
   text-decoration: underline;
   color: white;
+  margin-top: 50px;
 }
 
 table {
@@ -24,7 +25,6 @@ th {
   font-weight: bold;
   font-style: italic;
   font-size: 25px;
-  text-align: center;
   border-bottom: 1px solid gray;
   color: white;
 }
@@ -46,11 +46,13 @@ td {
 
 nav#list ul li {
   list-style-type: none;
-  float: left;
-  margin-bottom: 10px;
-  text-align: left;
+  float: right;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding-right: 75px;
+  margin-right: 40px;
 }
 
-list: hover {
-  transform: scale(1.05);
+nav#list ul li:hover {
+  transform: scale(1.2);
 }
