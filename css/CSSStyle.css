@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/interstellarbg.jpg");
+  background-image: url("images/css/interstellarbg.jpg");
   background-position: center;
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -39,8 +39,4 @@ td {
 
 tr {
   height: 30px;
-}
-
-tabs {
-  font-size: 20px;
 }
