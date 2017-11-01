@@ -9,7 +9,7 @@ body {
   font-style: italic;
   font-weight: bold;
   font-size: 35px;
-  height: 60px;
+  height: 50px;
   text-decoration: underline;
   color: white;
 }
@@ -42,4 +42,15 @@ td {
 .exp {
   vertical-align: 3px;
   font-size: smaller;
+}
+
+nav#list ul li {
+  list-style-type: none;
+  float: left;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+list: hover {
+  transform: scale(1.05);
 }
